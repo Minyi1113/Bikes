@@ -12,3 +12,4 @@ create the home page’s main content area as a Bootstrap jumbotron. The page di
 
 This page uses Flask templates and dynamic data to populate its contents. First, create a table using Bootstrap’s table class with a header row containing the header cells (“Image”, “Name”, etc.) and use Flask’s template system to generate the body HTML from data. 
 ![Bikes3](https://user-images.githubusercontent.com/56332687/230006727-42ec957f-3bec-4d2b-849a-c5bd05537f6f.png)
+
